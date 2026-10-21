@@ -1,0 +1,4 @@
+interface:
+  display_name: "漫剧制作"
+  short_description: "从脚本分镜到首帧、视频、音频审校与归档的完整漫剧流程"
+  default_prompt: "请使用 $ai-comic-production，根据我的故事与角色素材制作漫剧，并按已授权阶段完成审校与交付。"
